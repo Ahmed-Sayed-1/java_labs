@@ -1,5 +1,5 @@
 package lab4;
-class ComplexNumber<T extends Number> {
+public class ComplexNumber<T extends Number> {
     private T real;
     private T imaginary;
 

@@ -1,4 +1,4 @@
 package lab4;
-abstract class Shape {
+public abstract class Shape {
     abstract void draw();
 }
